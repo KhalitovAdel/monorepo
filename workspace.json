@@ -1,6 +1,7 @@
 {
     "version": 2,
     "projects": {
+        "ability": "packages/ability",
         "types": "packages/types"
     }
 }
